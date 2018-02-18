@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">walkgogo</string>
     <string name="acti_tool">工具</string>
+    <string name="acti_import" translatable="false">匯入</string>
 </resources>
