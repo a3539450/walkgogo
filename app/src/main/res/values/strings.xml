@@ -3,6 +3,14 @@
 
     <string name="index" >Fuck</string>
 
+    <string name="acti_import">Import</string>
+    <string name="acti_gallery">Gallery</string>
+    <string name="acti_sideshow">SideShow</string>
+    <string name="acti_tool">Tool</string>
+
+    <string name="comm_share">Share</string>
+    <string name="comm_send">Send</string>
+
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
